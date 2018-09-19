@@ -1,0 +1,47 @@
+{
+  "fb":
+    {
+      "i":"Football the game which contains two teams of usually between 11 and 18 players.",
+      "info":[
+        "Founded - 1930",
+        "Region - International (FIFA)",
+        "Number of teams - 204 (qualifiers) 32 (finals)",
+        "Current champions - France (2nd title)",
+        "Most successful teams - Brazil (5 tites)"
+      ]
+    },
+    "ct":
+    {
+      "i":"Cricket originated as a children's game in the south-eastern counties of England during the medieval period.",
+      "info":[
+        "First played - 16 centuary,south-east England",
+        "Region - World wide",
+        "Team members - 11 members per side",
+        "Type - Team sport"
+      ]
+    },
+    "hk":
+    {
+      "i":"The India national field hockey team was the first non-European team to be a part of the International Hockey Federation.",
+      "info":[
+        "1928 - team won its first Olympic gold medal",
+        "Nickname - Men in Blue; Bharat Army",
+        "Association - Hockey India",
+        "Confederation - ASHF (Asia)",
+        "Coach - Harendra Singh",
+        "Captain - P. R. Sreejesh",
+        "FIH ranking - 5 "
+      ]
+    },
+   "at":
+   {
+    "i":"The most common types of athletics competitions are track and field, road running, cross country running, and race walking.",
+    "info":[
+      "Highest governing body - IAAF",
+      "Mixed gender - Yes",
+      "Type - Outdoor or indoor",
+      "Olympic - Present since inaugural 1896 Olympics",
+      "Paralympic - Present since inaugural 1960 Paralympics"
+    ]
+   }
+}
